@@ -20,6 +20,7 @@ const CommentsList = ({ campsiteId }) => {
             There are no comments for this campsite yet.
         </Col>
     );
-};
+   };
+
 
 export default CommentsList;
