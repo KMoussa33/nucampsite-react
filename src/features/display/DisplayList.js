@@ -12,6 +12,7 @@ const DisplayList = () => {
         selectFeaturedPromotion(state), 
         selectFeaturedPartner(state)
     ]);
+    console.log('display items:', items);
 
     return (
         <Row>
